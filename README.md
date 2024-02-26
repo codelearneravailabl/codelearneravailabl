@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="left">Hi 👋, I'm Kanak Joshi, Welcome to My GitHub Profile!</h1>
+<h1 align="left">Hi 👋, I'm Nidhi, Welcome to My GitHub Profile!</h1>
 
 ###
 
