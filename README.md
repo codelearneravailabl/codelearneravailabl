@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💼 Currently, I am working with a dynamic startup, leveraging my skills to contribute to innovative projects.<br>🌱 I enjoy staying updated with the latest technologies and trends in the ever-evolving web development landscape.<br>🛠️ My focus is on creating intuitive and user-friendly web experiences, ensuring accessibility and inclusivity for all users.<br>📫 How to reach me kanakjsohi17@gmail.com</p>
+<p align="left">💼 Currently, I am working with a dynamic startup, leveraging my skills to contribute to innovative projects.<br>🌱 I enjoy staying updated with the latest technologies and trends in the ever-evolving web development landscape.<br>🛠️ My focus is on creating intuitive and user-friendly web experiences, ensuring accessibility and inclusivity for all users.<br>📫 How to reach me nidhipant28@gmail.com</p>
 
 ###
 
